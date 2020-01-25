@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /pipeline/
+Disallow: /yearbookupdates.htm
+Disallow: /newstops.htm
+Disallow: /contact.htm
+Disallow: /positions/
+Disallow: /labels.htm
+Disallow: /reservations.htm

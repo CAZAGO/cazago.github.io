@@ -1,0 +1,8 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www.cazago.org [NC]
+RewriteRule ^(.*)$ https://cazago.org [L,R=301]
+Redirect 301 /phoenixrising.pdf https://www.cazago.org/phoenixrising/phoenixrising.pdf
+Redirect 301 /memberevents.htm https://www.cazago.org/membersevents.htm
+Redirect 301 /hymnfest.pdf https://www.cazago.org/docs/hymnfest.pdf
+Redirect 301 /advertisers.htm https://www.cazago.org/ads-classifieds.htm
+Redirect 301 /newpositions.htm https://www.cazago.org/positions.htm

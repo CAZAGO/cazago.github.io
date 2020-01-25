@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+	Monoslideshow 1.32 configuration file
+	Please visit http://www.monoslideshow.com for more info
+-->
+
+<slideshow>
+	
+	<preferences
+		kenBurnsMode = "random"
+		kenBurnsVariationPercent = "45"
+		kenBurnsTime = "9"
+		showControls = "false"
+		preloadImages = "1"
+		showLoadingIcon = "false"
+		imagePause = "10"
+		imageInfoAlpha = "35"
+		imageInfoDisplayNoDescription = ""
+	/>
+	
+	<album imagePath="album/images">
+		<img src="phoenixfire.jpg" title="Region IX Festival 2009"/>
+		<img src="schantzcopper.jpg" title="Schantz Organ Co., Trompette en Chamade (Gallery), Trinity Episcopal Cathedral, Phoenix"/>
+		<img src="biltmoredetail.jpg" title="Arizona Biltmore Detail, Phoenix"/>
+		<img src="berghaus.jpg" title="Berghaus Organ Builders, La Casa de Cristo Lutheran, Scottsdale (Pre-Convention)"/>
+		<img src="christchurch.jpg" title="David McDowell, Christ Church Lutheran, Phoenix (Pre-Convention)"/>
+		<img src="riegerkloss.jpg" title="Rieger-Kloss, Orangewood Presbyterian, Phoenix (Pre-Convention)"/> 
+		<img src="biltmore.jpg" title="Arizona Biltmore Resort & Spa, Phoenix"/>
+		<img src="casavant3.jpg" title="Casavant Freres, American Lutheran, Sun City"/> 
+		<img src="visser.jpg" title="Visser & Assoc., All Saints' Episcopal, Phoenix"/>
+		<img src="cacti.jpg" title="Desert Botanical Garden, Phoenix"/>
+		<img src="stbarnabas.jpg" title="St. Barnabas on the Desert Episcopal (Casavant), Paradise Valley"/>
+		<img src="casavant.jpg" title="Casavant Freres, Chaparral Christian, Scottsdale"/>
+		<img src="sipe.jpg" title="Robert L. Sipe, First United Methodist, Phoenix (Not Scheduled)"/>
+		<img src="schantz.jpg" title="Schantz, Trinity Episcopal Cathedral"/>
+		<img src="dwntwnphoenix.jpg" title="Central Corridor, Phoenix"/> 
+		<img src="hfirstpres.jpg" title="Historic First Presbyterian (W.W. Kimball--Not Scheduled), Phoenix"/>
+		<img src="tovcast.jpg" title="Tovrea Castle & Carraro Cactus Garden, Phoenix"/>
+		<img src="afalls.jpg" title="Arizona Falls, Phoenix"/>
+		<img src="dobson.jpg" title="Dobson Organ Builders, First United Methodist, Mesa"/>
+		<img src="bigelow.jpg" title="M.L. Bigelow & Co., Victory Lutheran Church, Mesa"/>
+		<img src="organstoppizza.jpg" title="Organ Stop Pizza, Mesa"/>
+		<img src="ascension.jpg" title="Ascension Lutheran (M.P. Moller), Paradise Valley"/>
+		<img src="pinnacle2.jpg" title="Richards, Fowkes & Co., Pinnacle Presbyterian, Scottsdale"/>
+		<img src="rosales.jpg" title="Manuel Rosales, Kilgore Chapel (Not Scheduled)"/>
+		<img src="fritts2.jpg" title="Paul Fritts & Co., ASU Organ Hall (Not Scheduled)"/>
+		<img src="biltgoldroom.jpg" title="Arizona Biltmore Gold Room"/>
+		<img src="ggma.jpg" title="Grady Gammage Memorial Auditorium (Aeolian-Skinner), ASU Campus, Tempe"/>
+		<img src="camelback2.jpg" title="Desert View of Camelback Mountain"/>
+		<img src="bigelow2.jpg" title="M.L. Bigelow, Robinson Residence, Phoenix (Post-Convention)"/>
+		<img src="southmtnview.jpg" title="View from South Mountain"/>
+		<img src="biltmorenight.jpg" title="Evening at the Arizona Biltmore"/>
+		<img src="sunset.jpg" title="Desert Sunset"/>
+	</album>
+	
+	</slideshow>
