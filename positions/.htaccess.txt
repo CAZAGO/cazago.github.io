@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Members Only Area"
-AuthUserFile /homepages/13/d147885419/htdocs/positions/.htpasswd
-Require valid-user
