@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Members Only Area"
-AuthUserFile /home/cazago/.htpasswds
+AuthUserFile /home/cazago/.htpasswd
 Require valid-user
