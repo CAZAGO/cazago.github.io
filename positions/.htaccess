@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Members Only Area"
-AuthUserFile /.htpasswd
-Require valid-user
